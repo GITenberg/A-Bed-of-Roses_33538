@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35870
     wikipedia: http://en.wikipedia.org/wiki/W._L._George
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33538#A-Bed-of-Roses
 gutenberg_issued: '2010-08-26'
 gutenberg_type: Text
 identifiers:
